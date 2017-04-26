@@ -1,4 +1,4 @@
-Shopping list v3
+Recipes v3
 ================
 
-https://github.com/Thinkful-Ed/node-shopping-list-v3
+https://courses.thinkful.com/node-001v5/project/1.4.4
